@@ -30,7 +30,7 @@ public class BaseTest {
         driverFactory.setDriver(browser);
         driver = driverFactory.getDriver();
         driver.get("https://demo1.cybersoft.edu.vn/");
-        logger.info("da truy cap web thanh cong");
+        logger.info("Truy cap web thanh cong roi đó");
         //String browser = "Safari";
 //        if (browser == "Chrome")
 //        {
